@@ -1,9 +1,9 @@
 # 💫 About Me:
-🎓 Future Computer Engineer
-💻 Aspiring Frontend Developer
-🎨 Passionate about UI/UX Design
-🚀 Constantly learning and building projects to sharpen my skills
-🔍 Exploring the intersection of design and functionality
+🎓 Future Computer Engineer<br>
+💻 Aspiring Frontend Developer<br>
+🎨 Passionate about UI/UX Design<br>
+🚀 Constantly learning and building projects to sharpen my skills<br>
+🔍 Exploring the intersection of design and functionality<br>
 
 
 ## 🌐 Socials:
