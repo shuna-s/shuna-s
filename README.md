@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I’m Nat 👋<br>I’m a graduating computer engineering student who found my spark in frontend development and design. I love creating things that not only work but also feel good to use. For me, building a clean and intuitive interface is like telling a story—every detail matters.<br><br>Outside of code, I’m someone who enjoys collaboration, creativity, and finding simple solutions to complex problems. I get excited about learning new perspectives, whether it’s from tech, art, or just conversations with people.
+🎓 Future Computer Engineer
+💻 Aspiring Frontend Developer
+🎨 Passionate about UI/UX Design
+🚀 Constantly learning and building projects to sharpen my skills
+🔍 Exploring the intersection of design and functionality
 
 
 ## 🌐 Socials:
