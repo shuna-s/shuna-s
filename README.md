@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Nath. 👋
+## Hi, I'm Nath. 👋<br>
 🎓 Future Computer Engineer<br>
 💻 Aspiring Frontend Developer<br>
 🎨 Passionate about UI/UX Design<br>
