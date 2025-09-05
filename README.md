@@ -3,7 +3,7 @@
 🎓 Future Computer Engineer<br>
 💻 Aspiring Frontend Developer<br>
 🎨 Passionate about UI/UX Design<br>
-🚀 Constantly learning and building projects to sharpen my skills<br>
+🚀 Constantly learning to sharpen my skills<br>
 🔍 Exploring the intersection of design and functionality<br>
 
 
