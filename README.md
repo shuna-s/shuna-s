@@ -8,7 +8,7 @@ Hi, I'm Nath 👋🙋‍♂️
 
 
 ## 💫 About Me:
-🎓 Future Computer Engineer<br>
+🎓 Future Computer Engineer<br> 
 💻 Aspiring Frontend Developer<br>
 🎨 Passionate about UI/UX Design<br>
 🚀 Constantly learning to sharpen my skills<br>
